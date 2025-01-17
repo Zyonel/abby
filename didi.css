@@ -1,0 +1,8 @@
+.didi{
+   text-overflow: unset; 
+   color: gold;
+   background-color: black;
+   padding: 50px;
+   margin: 50px;
+   padding-inline-end: 5px;
+}
